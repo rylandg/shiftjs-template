@@ -7,7 +7,8 @@ After hijacking this template, please run
 ```bash
 git clone https://github.com/rylandg/shiftjs-template.git
 cd shiftjs-template
-npm run login
+npm install --save-dev
+npm run shiftjs-login
 ```
 
 Have fun!
