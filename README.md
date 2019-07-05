@@ -1,5 +1,5 @@
 
-[![Deploy to Shift](./shift_logo.png)](http://localhost:3000/)
+[![Deploy to Shift](./shift-button.png)](http://localhost:3000/)
 
 
 After hijacking this template, please run
