@@ -1,3 +1,18 @@
+
+[![Deploy to Shift](./shift_logo.png)](http://localhost:3000/)
+
+
+After hijacking this template, please run
+
+```bash
+git clone https://github.com/rylandg/shiftjs-template.git
+cd shiftjs-template
+npm run login
+```
+
+Have fun!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
