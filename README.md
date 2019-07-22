@@ -8,7 +8,6 @@ After hijacking this template, please run
 git clone https://github.com/rylandg/shiftjstemplate-copy.git
 cd shiftjstemplate-copy
 npm install --save-dev
-npx run shift-cli login
 npm run deploy
 ```
 
