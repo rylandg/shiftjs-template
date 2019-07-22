@@ -5,10 +5,11 @@
 After hijacking this template, please run
 
 ```bash
-git clone https://github.com/rylandg/shiftjs-template.git
-cd shiftjs-template
+git clone https://github.com/rylandg/shiftjstemplate-copy.git
+cd shiftjstemplate-copy
 npm install --save-dev
-npm run shiftjs-login
+npx run shift-cli login
+npm run deploy
 ```
 
 Have fun!
